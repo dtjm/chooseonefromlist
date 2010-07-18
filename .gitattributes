@@ -1,0 +1,2 @@
+# http://gist.github.com/137348
+*.pbxproj -crlf -diff -merge

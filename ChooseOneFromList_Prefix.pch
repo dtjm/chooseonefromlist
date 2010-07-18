@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Choose One From List' target in the 'Choose One From List' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
